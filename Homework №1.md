@@ -19,3 +19,31 @@ Well done! Your first Git repository is create!
 
 ## Basic commands:
 
+- *git help* - help for all commands;
+
+- *git add .* - add all files in this repository to future commit;
+
+- *git add --all* - same comand as previous;
+
+- *git add "File name"* - add to future commit only specific file;
+
+- *git commit -m "Our comment"* - record changes to the repository with your comment;
+
+- *git commit -**a**m "Our comment"* - allows you to combine "git add" with previous command - it allows you to avoid unnecessary actions;
+
+- *git status* - shows to you versions information on current files;
+
+- *git log* - shows to you information about save checkpoints;
+
+- *git reflog* - a similar command in a more compact form and including checkpoint load log;
+
+- *git checkout "savepoint code"* - loading a specific savepoint - by full or short code (4 digits);
+
+- *git checkout master* - loading your master savepoint;
+
+- *git diff* - show changes between current work and last commit;
+
+- *git branch* - informtion menu to work with branches;
+
+### This guide may be updated in the future.
+
