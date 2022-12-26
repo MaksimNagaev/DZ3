@@ -51,7 +51,7 @@ Well done! Your first Git repository is create!
 
 - *git merge new_branch_name* - including all changes from specified branch to current - This can lead to two kinds of developments:  
     1. Standard inclusion of all changes in the current branch from the one you selected in the command;
-    2. Creation of a conflict that requires your direct participation in decision making;
+    2. *__Wrong information__*
 
 ## Tips and Hints
 
