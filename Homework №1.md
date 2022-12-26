@@ -31,7 +31,7 @@ Well done! Your first Git repository is create!
 
 - *git commit -**a**m "Our comment"* - allows you to combine "git add" with previous command - it allows you to avoid unnecessary actions;
 
-- *git status* - shows to you versions information on current files;
+- *git status* - The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git. More about ignoring tracking - in .gitignore.;
 
 - *git log* - shows to you information about save checkpoints;
 
