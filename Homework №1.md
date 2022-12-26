@@ -49,7 +49,9 @@ Well done! Your first Git repository is create!
     1. *git branch __new_branch_name__* - creating a new branch with specified name;
     2. *git branch __-d__ new_branch_name* - removal a branch with specified name;
 
-- *git merge new_branch_name* - including all changes from specified branch to current;
+- *git merge new_branch_name* - including all changes from specified branch to current - This can lead to two kinds of developments:  
+    1. Standard inclusion of all changes in the current branch from the one you selected in the command;
+    2. Creation of a conflict that requires your direct participation in decision making;
 
 ## Tips and Hints
 
