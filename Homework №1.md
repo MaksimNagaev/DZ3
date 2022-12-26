@@ -2,18 +2,7 @@
 
 ## Start steps:
 
-1. Install programm from Git site - **(https://git-scm.com/)**
-
-2. Check how it works with command: *git --version*  
-(**if all going right - you will see actual version of your git**)
-
-3. Creating a repository - choose folder of your project by: **File - Open Folder**
-
-4. Initializing your folder as a repository with command: *git init*
-
-5. Create your own profile in Git system with next commands:
-    * *git config --global user.name "Your name"*
-    * *git config --global user.email "Your email"*
+***Data was stolen while trying to create an artificial conflict from merging two branches in Git!***
 
 Well done! Your first Git repository is create!
 
@@ -50,7 +39,7 @@ Well done! Your first Git repository is create!
     2. *git branch __-d__ new_branch_name* - removal a branch with specified name;
 
 - *git merge new_branch_name* - including all changes from specified branch to current - This can lead to two kinds of developments:  
-    1. *__Wrong information__*
+    1. 1. Standard inclusion of all changes in the current branch from the one you selected in the command;
     2. Creation of a conflict that requires your direct participation in decision making;
 
 ## Tips and Hints
