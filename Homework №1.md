@@ -35,6 +35,8 @@ Well done! Your first Git repository is create!
 
 - *git log* - shows to you information about save checkpoints;
 
+- *git log __--graph__* - shows to you current branch ways;
+
 - *git reflog* - a similar command in a more compact form and including checkpoint load log;
 
 - *git checkout "savepoint code"* - loading a specific savepoint - by full or short code (4 digits);
@@ -45,7 +47,16 @@ Well done! Your first Git repository is create!
 
 - *git branch* - information menu about all current branches, as well as the basis of commands for working with them like:  
     1. *git branch __new_branch_name__* - creating a new branch with specified name;
-    2. *git branch __-d__ new_branch_name* - deleting a branch with specified name;
+    2. *git branch __-d__ new_branch_name* - removal a branch with specified name;
+
+- *git merge new_branch_name* - including all changes from specified branch to current;
+
+## Tips and Hints
+
+- *.gitignore* - a way to exclude items you don't care about from the Git tracking system. Details in the picture:
+
+![.gitignore work example](Images\Gitignore_example.png)
+
 
 ### This guide may be updated in the future.
 
