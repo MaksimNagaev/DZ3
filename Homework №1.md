@@ -43,7 +43,9 @@ Well done! Your first Git repository is create!
 
 - *git diff* - show changes between current work and last commit;
 
-- *git branch* - informtion menu to work with branches;
+- *git branch* - information menu about all current branches, as well as the basis of commands for working with them like:  
+    1. *git branch __new_branch_name__* - creating a new branch with specified name;
+    2. *git branch __-d__ new_branch_name* - deleting a branch with specified name;
 
 ### This guide may be updated in the future.
 
